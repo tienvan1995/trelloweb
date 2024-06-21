@@ -23,7 +23,7 @@ module.exports = {
     'react/prop-types': 0,
     'react/display-name': 0,
 
-    //import
+    //MUI
     'no-restricted-imports': [
       'error',
       {
